@@ -64,7 +64,7 @@ python converter_rgb565.py your_image.png VariableName 240 240
 
 ```text
 darth-vader-esp32/
-├── darth-vader-esp32.ino    # Main sketch
+├── ShowVader.ino    # Main sketch
 ├── Imperial.h               # Imperial March — non-blocking
 ├── converter_rgb565.py      # Image conversion tool
 ├── blue.h                   # Blue frame
